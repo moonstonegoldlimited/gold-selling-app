@@ -29,7 +29,7 @@ Welcome to the **Gold Selling App**, your trusted platform for selling gold quic
 ## 📦 Installation (for developers)
 
 ```bash
-git clone https://github.com/yourusername/gold-selling-app.git
+git clone https://github.com/moonstonegoldlimited/gold-selling-app.git
 cd gold-selling-app
 npm install
 npm run dev
