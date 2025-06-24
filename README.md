@@ -15,7 +15,7 @@ Welcome to the **Gold Selling App**, your trusted platform for selling gold quic
 ## 🔗 Useful Links
 
 - 👉 [Sell Gold](https://moonstonegold.co.uk/sell-gold-for-cash/)
-- 📊 [Live Gold Price](https://moonstonegold.co.uk/live-uk-gold-price-gbp/)
+- 📊 [Gold Price UK](https://moonstonegold.co.uk/gold-price-uk/)
 - 📞 [Contact Support](https://moonstonegold.co.uk/contact-us/)
 - ❓ [FAQs](https://moonstonegold.co.uk/gold-selling-faq/)
 
