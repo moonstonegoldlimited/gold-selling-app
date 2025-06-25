@@ -12,6 +12,11 @@ Welcome to the **Gold Selling Platform**, the smart and secure way to exchange y
 - 📜 **Digital Receipts & Transaction Records**
 - 🎁 **Exclusive Monthly Giveaways for Sellers**
 
+## 📱 Download the App
+
+- 📲 [Download on the App Store (iPhone)](https://apps.apple.com/gb/app/sell-my-gold/id6612008309/)
+- 🤖 [Get it on Google Play (Android)](https://play.google.com/store/apps/details?id=uk.co.moonstonegold.sellmygold&pcampaignid=web_share/)
+
 ## 🔗 Helpful Resources
 
 - 👉 [Sell Your Gold](https://moonstonegold.co.uk/sell-gold-for-cash/)  
