@@ -1,32 +1,32 @@
-# 💰 Gold Selling App
+# 💰 Gold Selling Platform
 
-Welcome to the **Gold Selling App**, your trusted platform for selling gold quickly, securely, and at the best market prices. Whether you're selling gold jewelry, coins, or bullion, our app ensures a fast and transparent process with real-time pricing updates.
+Welcome to the **Gold Selling Platform**, the smart and secure way to exchange your gold for top market value. Whether it’s jewelry, coins, or bullion, our service offers a simple, reliable, and fast solution with up-to-the-minute pricing.
 
-## 🚀 Features
+## 🚀 What You Get
 
-- 📈 **Live Gold Price Tracking**
-- 🛒 **Instant Online Quotes**
-- 📦 **Free Insured Postage**
-- ✅ **Same-Day Payment Options**
-- 🔒 **Secure Account and Identity Verification**
-- 📜 **Transaction History and Receipts**
-- 🎁 **Monthly Prize Draws for Sellers**
+- 📈 **Real-Time Gold Price Monitoring**
+- 🛒 **Quick Online Valuations**
+- 📦 **Complimentary Insured Shipping**
+- ✅ **Same-Day Payout Options**
+- 🔒 **Robust Security & Identity Verification**
+- 📜 **Digital Receipts & Transaction Records**
+- 🎁 **Exclusive Monthly Giveaways for Sellers**
 
-## 🔗 Useful Links
+## 🔗 Helpful Resources
 
-- 👉 [Sell Gold](https://moonstonegold.co.uk/sell-gold-for-cash/)
-- 📊 [Gold Price UK](https://moonstonegold.co.uk/gold-price-uk/)
-- 📞 [Contact Support](https://moonstonegold.co.uk/contact-us/)
-- ❓ [FAQs](https://moonstonegold.co.uk/gold-selling-faq/)
+- 👉 [Sell Your Gold](https://moonstonegold.co.uk/sell-gold-for-cash/)  
+- 📊 [Live UK Gold Price](https://moonstonegold.co.uk/gold-price-uk/)  
+- 📞 [Contact Our Team](https://moonstonegold.co.uk/contact-us/)  
+- ❓ [Gold Selling FAQs](https://moonstonegold.co.uk/gold-selling-faq/)
 
-## 🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Overview
 
 - **Frontend**: React Native / Flutter (Mobile), React / Vue (Web)
 - **Backend**: Node.js / Python (FastAPI) / PHP (Laravel)
 - **Database**: PostgreSQL / MySQL
 - **Hosting**: AWS / Firebase / Vercel
 
-## 📦 Installation (for developers)
+## 📦 Developer Setup
 
 ```bash
 git clone https://github.com/moonstonegoldlimited/gold-selling-app.git
